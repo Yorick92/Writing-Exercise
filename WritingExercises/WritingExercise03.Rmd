@@ -11,8 +11,9 @@ Remember that you should use the "commit" process to save your changes.
 # Writing Sample to Edit
 
 Streptomyces are Gram-positive bacteria commonly isolated from soil, marine sediments, or from symbiotic associations with invertebrates such as leaf-cutter ants or beewolves.
-Studies conducted over the past few decades have shown that Streptomyces bacteria naturally produce a wide range of so-called "secondary metabolites" (or natural products), which often have valuable properties (e.g., anti-cancer, anti-fungal, anti-bacterial properties), which has contributed to considerable interest and continued research focus on these organisms and the compounds that they produce.  
-Streptomyces have large, complex genomes with a high-GC content and an unusual structure (linear chromosomes that are typically 8-10 Mbp in length, relatively large for bacterial genomes and possessing telomeres on each end; and also, they often contain one or more linear plasmids). 
+Previous studies have shown that Streptomyces bacteria naturally produce a wide range of secondary metabolites with valuable properties such as anti-cancer, anti-fungal, anti-bacterial properties.
+
+Streptomyces' include a large, complex genome with a high-GC content and and it's made up of linear chromosomes that are typically 8-10 Mbp in length, relatively large for bacterial genomes and possessing telomeres on each end; and also, they often contain one or more linear plasmids. 
 Classic examples of the production of antibiotics by such Streptomyces include the production of Streptomycin by Streptomyces griseus, the production of chloramphenicol by Streptomyces venezuelae, and the production of neomycin by Streptomyces fradiae. 
 Notably, relatives of Streptomyces, Actinomyces, can also be used to produce valuable compounds, such as the production of chlortetracycline by Kitasatospora aureofaciens (although also notably, K. aureofaciens had previously been classified as a Streptomyces). 
 Other organisms from the Actinomycetota related to Streptomyces that produce antibiotics include Saccharopolyspora erythraea (erythromycin), Micromonospora purpurea (which produces gentamycin), and Amycolatopsis orientalis (the original source of vancomycin, first isolated in 1953). 
