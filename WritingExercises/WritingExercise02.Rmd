@@ -35,7 +35,9 @@ Polythylene (PET) can be degraded by the Ideonella sakaiensis microbe using PETa
 
 ## In summaries, keep to one tense.
 
-The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours. This steadily decreased the glucose concentration and optical density increased from 0.2 to 8.4. Following this, centrifugation was used to harvest the culture and recombinant enzyme was purified by affinity chromatography.
+The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours.
+This steadily decreased the glucose concentration and optical density increased from 0.2 to 8.4.
+Following this, centrifugation was used to harvest the culture and recombinant enzyme was purified by affinity chromatography.
 
 The purified enzyme showed a specific activity of 42 U/mg and is suitable for use in the subsequent biocatalytic process.
 
